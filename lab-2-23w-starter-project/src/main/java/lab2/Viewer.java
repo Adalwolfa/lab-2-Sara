@@ -8,7 +8,7 @@ public class Viewer
     public static void main(String[] args)
     {
         JFrame frame = new JFrame();
-        frame.setSize(100,100);
+        frame.setSize(200,300);
         frame.setTitle("Viewer");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
